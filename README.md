@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **lilplucky/lilplucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,13 +37,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python and PHP**
 - 👯 I’m looking to learn ideas,and experiment new things
--  💬Ask me about The Linux Terminal [Commands]
+- 💬 Ask me about Bash Scripting
 - 📫 How to reach me **mailto:emiliohulbert2017@gmail.com**
 
 <br/>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <br/>
 <h3 align="left">🏆 Github Trophies:</h3>
 	<p align="center">
@@ -63,11 +64,11 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/videquod?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
+  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/videquod?logo=twitter&style=for-the-badge" alt="videquod" /></a>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lilplucky&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lilplucky&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <br>
 <br>
