@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
+  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/videquod?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allannjuguna&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lilplucky&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <br>
 <br>
