@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="left">Activities:</h3>
 
-- 🌱 I’m currently learning **Python and Lua**
+- 🌱 I’m currently learning **Python and PHP**
 - 👯 I’m looking to learn ideas,and experiment new things
--  💬 Ask me about The Linux Terminal [Commands]
+-  💬Ask me about The Linux Terminal [Commands]
 - 📫 How to reach me **mailto:emhalnexus2017@yahoo.com**
 
 <br/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="left">🏆 Github Trophies:</h3>
 	<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=lilplucky&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+	<img src="https://github-profile-trophy.vercel.app/?username=lilplucky&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
 <br/>
 <h3 align="left">📊 Streaks and Stats:</h3>
