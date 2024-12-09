@@ -53,17 +53,17 @@ Here are some ideas to get you started:
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilplucky&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://gitcard.vercel.app/api?username=lilplucky&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilplucky&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
 
 
 <p align="left">
 
-  <a href="https://twitter.com/xubzer0" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
+  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <!---
-  <img src="https://badges.pufler.dev/years/allannjuguna?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/years/lilplucky?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
