@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emilio</h1>
+<h2 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif" alt="Hi" width="28" />. I’m Emilio</h2>
 <h3 align="center">A passionate system Programmer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilplucky" alt="lilplucky" /></a> </p>
