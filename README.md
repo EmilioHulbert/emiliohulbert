@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Burp](https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red)
+![debian](https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon)
+![Hetzner](https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red)
 ![CoffeeScript](https://img.shields.io/badge/coffee%20script-%23000.svg?style=for-the-badge&logo=coffeescript&logoColor=red)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br/>
