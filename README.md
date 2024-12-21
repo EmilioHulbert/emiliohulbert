@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ![amazon](https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange)
 ![opensource](https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green)
 ![wordpress](https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red)
 ![Drupal](https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey) 
