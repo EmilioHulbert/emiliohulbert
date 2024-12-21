@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 ![Hetzner](https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red)
 ![Oracle VirtualBox](https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red)
 ![CoffeeScript](https://img.shields.io/badge/coffee%20script-%23000.svg?style=for-the-badge&logo=coffeescript&logoColor=red)
+![Vi](https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green)
 ![Udemy](https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue)
