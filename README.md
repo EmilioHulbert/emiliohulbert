@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![amazon](https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange)
+![C++](https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![wordpress](https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red)
 ![Drupal](https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey) 
-![Wireguard](https://img.shields.io/badge/Wg0-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red)
+![Wireguard](https://img.shields.io/badge/Wg-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![docker](https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red)
-![C](https://img.shields.io/badge/-%23000.svg?style=for-the-badge&logo=c&logoColor=cyan)
 ![C++](https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Burp](https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red)
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 ![Hetzner](https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red)
 ![CoffeeScript](https://img.shields.io/badge/coffee%20script-%23000.svg?style=for-the-badge&logo=coffeescript&logoColor=red)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Udemy](https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue)
 <br/>
 
 <h3 align="left">🏆 Github Trophies:</h3>
