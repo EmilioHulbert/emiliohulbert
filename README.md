@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red)
-![C++](https://img.shields.io/badge/c-%23000.svg?style=for-the-badge&logo=c&logoColor=cyan)
 ![C++](https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![CoffeeScript](https://img.shields.io/badge/coffee%20script-%23000.svg?style=for-the-badge&logo=coffeescript&logoColor=red)
