@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![docker](https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red)
-![C](https://img.shields.io/badge/c-%23000.svg?style=for-the-badge&logo=c&logoColor=cyan)
+![C](https://img.shields.io/badge/-%23000.svg?style=for-the-badge&logo=c&logoColor=cyan)
 ![C++](https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Burp](https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red)
