@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![wordpress](https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red)
 ![Drupal](https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey) 
-![Wireguard](https://img.shields.io/badge/Wg-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red)
+![Wireguard](https://img.shields.io/badge/Wg0-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![docker](https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red)
