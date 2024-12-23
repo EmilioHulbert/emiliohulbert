@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**lilplucky/lilplucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emiliohulbert/emiliohulbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <samp>A student,coder,ctf player and cyber security enthusiast from Kenya</samp>
 <br/>
 <br/>
-<strong><a href="https://lilplucky.github.io/">My Portfolio »</a></strong>
+<strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong>
 </p>
 <br/>
 <h3 align="left">Activities:</h3>
@@ -79,19 +79,19 @@ Here are some ideas to get you started:
 
 <h3 align="left">🏆 Github Trophies:</h3>
 	<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=lilplucky&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+	<img src="https://github-profile-trophy.vercel.app/?username=emiliohulbert&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
 <br/>
 
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilplucky&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiliohulbert&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=lilplucky&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://gitcard.vercel.app/api?username=emiliohulbert&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilplucky&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
 
 
 <p align="left">
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <!---
-  <img src="https://badges.pufler.dev/years/lilplucky?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/years/emiliohulbert?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
