@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="left">Activities:</h3>
 
-- 🌱 I’m currently learning **Python and PHP**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to learn ideas,and experiment new things
 - 💬 Ask me about Bash Scripting
 - 📫 How to reach me **mailto:emiliohulbert2017@gmail.com**
