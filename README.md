@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Django**
 - 👯 I’m looking to learn ideas,and experiment new things
-- 💬 Ask me about Bash Scripting
+- 💬 Ask me about Shell Scripting
 - 📫 How to reach me **mailto:emhalnexus2017@yahoo.com**
 
 <br/>
