@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="left">Activities:</h3>
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **C & C++ Programming**
 - 👯 I’m looking to learn ideas,and experiment new things
 - 💬 Ask me about Shell Scripting
 - 📫 How to reach me **mailto:emiliobckp@gmail.com**
