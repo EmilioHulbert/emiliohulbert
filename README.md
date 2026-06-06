@@ -113,8 +113,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown&logoWidth=30" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&logoWidth=30" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
