@@ -116,8 +116,8 @@
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 
-  <a href="https://badgr.com/public/assertions/T3fcheyZQH6xVQkQADwjSA" target="_blank">
-    <img src="https://api.badgr.io/public/assertions/T3fcheyZQH6xVQkQADwjSA/image" alt="Postman API Fundamentals Student Expert" width="120px" />
+  <a href="https://academy.hackthebox.com/achievement/badge/2bce3d23-f797-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Postman API Fundamentals Student Expert" width="120px" />
   </a>
 
   <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
@@ -125,10 +125,24 @@
   </a>
 
 
+  <a href="https://academy.hackthebox.com/achievement/badge/d9da1f60-8293-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="HTB Badge" width="120px" />
+  </a>
+  
+<a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Cisco Cybersecurity Badge" width="120px" />
+  </a>
+  
   <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Cisco Cybersecurity Badge" width="120px" />
   </a>
   
+
+  <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Cisco Cybersecurity Badge" width="120px" />
+  </a>
+  
+
 
 </div>
 
