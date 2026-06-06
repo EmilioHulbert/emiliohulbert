@@ -4,12 +4,12 @@
 <h2 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif" alt="Hi" width="28" />. I’m Emilio</h2>
 <br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+%2C+I+am+Emilio;I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+%E2%9D%A4+Coding+%F0%9F%92%BB;I+%E2%9D%A4+Learning+new+stuff+%F0%9F%8C%B1;I+%E2%9D%A4+Cyber+Security+%F0%9F%95%B5%EF%B8%8F;I+%E2%9D%A4+Automating+Stuff+%F0%9F%94%A7;I+%E2%9D%A4+Collaborating+on+projects+%F0%9F%91%AF">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+%2C+I+am+Emilio;I+am+a+Security Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+%E2%9D%A4+Coding+%F0%9F%92%BB;I+%E2%9D%A4+Learning+new+stuff+%F0%9F%8C%B1;I+%E2%9D%A4+Cyber+Security+%F0%9F%95%B5%EF%B8%8F;I+%E2%9D%A4+Automating+Stuff+%F0%9F%94%A7;I+%E2%9D%A4+Collaborating+on+projects+%F0%9F%91%AF">
 </p>
 <br/>
 <br/>
 <p align="center">
-<samp>A student,coder,ctf player and cyber security enthusiast from Kenya</samp>
+<samp>A Security Engineer,coder,ctf player and Full-stack Developer from Kenya</samp>
 <br/>
 <br/>
 <strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong>
@@ -110,12 +110,44 @@
   </tr>
 </table>
  -->
-<p align="left">
-  <!-- Group your badges here. Removing the 'align="center"' forces them to start from the left -->
-  <img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" /> <img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/nginx-%23000.svg?style=for-the-badge&logo=nginx&logoColor=green" /> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey" /> <img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" /> <img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" /> <img src="https://img.shields.io/badge/openvpn-%23000.svg?style=for-the-badge&logo=openvpn&logoColor=red" /> <img src="https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red" /> <img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" /> <img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" /> <img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" /> <img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /> <img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /> <img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" />
-</p>
 
-
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/nginx-%23000.svg?style=for-the-badge&logo=nginx&logoColor=green" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/openvpn-%23000.svg?style=for-the-badge&logo=openvpn&logoColor=red" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red" /></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
+  </tr>
+</table>
 
 
 <h3 align="left">🏆 Github Trophies:</h3>
@@ -157,4 +189,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lilplucky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lilplucky" /></a><a href="https://ko-fi.com/lilplucky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lilplucky" /></a></p><br><br>
+
+
+<!-- Cyan Wave Footer - shorter height -->
+
+<!-- ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png) -->
+![header](./bottom-image.png)
 
