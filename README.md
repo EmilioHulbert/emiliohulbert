@@ -124,7 +124,7 @@
     <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Linux Fundamentals badge" width="120px" />
   </a>
 <a href="https://academy.hackthebox.com/achievement/badge/cadea6b4-f78a-11f0-9254-bea50ffe6cb4" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Windows fundamentals" width="120px" />
+    <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" alt="Windows fundamentals" width="120px" />
   </a>
   
   <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
