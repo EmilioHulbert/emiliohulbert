@@ -85,12 +85,17 @@ Here are some ideas to get you started:
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiliohulbert&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiliohulbert&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" /> -->
 
-  <img src="https://gitcard.vercel.app/api?username=emiliohulbert&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-pied-eta-99.vercel.app/?user=emiliohulbert&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
+
+  <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
+
+  <!-- <img src="https://gitcard.vercel.app/api?username=emiliohulbert&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" /> -->
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" /> -->
+  <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
 
 
 <p align="left">
