@@ -138,6 +138,17 @@
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="120px" />
   </a>
 
+   <a href="https://academy.hackthebox.com/achievement/badge/d9da1f60-8293-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="HTB Introduction Badge" width="120px" />
+  </a>
+  
+  <a href="https://academy.hackthebox.com/achievement/badge/2bce3d23-f797-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Linux Fundamentals badge" width="120px" />
+  </a>
+<a href="https://academy.hackthebox.com/achievement/badge/cadea6b4-f78a-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" alt="Windows fundamentals" width="120px" />
+  </a>
+
 
   
  
