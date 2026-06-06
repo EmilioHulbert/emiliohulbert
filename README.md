@@ -119,12 +119,12 @@
   <a href="https://academy.hackthebox.com/achievement/badge/d9da1f60-8293-11f0-9254-bea50ffe6cb4" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="HTB Introduction Badge" width="120px" />
   </a>
-
+  
   <a href="https://academy.hackthebox.com/achievement/badge/2bce3d23-f797-11f0-9254-bea50ffe6cb4" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="" width="120px" />
+    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Linux Fundamentals badge" width="120px" />
   </a>
-<a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Cisco Cybersecurity Badge" width="120px" />
+<a href="https://academy.hackthebox.com/achievement/badge/cadea6b4-f78a-11f0-9254-bea50ffe6cb4" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Windows fundamentals" width="120px" />
   </a>
   
   <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
