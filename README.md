@@ -25,7 +25,7 @@
 <br/>
 
 # 💻 Tech Stack:
-
+<!-- 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![django](https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown)
@@ -56,8 +56,44 @@
 ![Vi](https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green)
-![Udemy](https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue)
+![Udemy](https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue) -->
+
 <br/>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23000.svg?style=for-the-badge&logo=nginx&logoColor=green" />
+  <img src="https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange" />
+  <img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" />
+  <img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey" />
+  <img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/openvpn-%23000.svg?style=for-the-badge&logo=openvpn&logoColor=red" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" />
+  <img src="https://img.shields.io/badge/-%23000.svg?style=for-the-badge&logo=c&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red" />
+  <img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" />
+  <img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" />
+  <img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" />
+  <img src="https://img.shields.io/badge/coffee%20script-%23000.svg?style=for-the-badge&logo=coffeescript&logoColor=red" />
+  <img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" />
+  <img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" />
+</p>
 
 
 <h3 align="left">🏆 Github Trophies:</h3>
