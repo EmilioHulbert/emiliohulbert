@@ -138,12 +138,12 @@
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="120px" />
   </a>
 
-   <a href="https://academy.hackthebox.com/achievement/badge/d9da1f60-8293-11f0-9254-bea50ffe6cb4" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="HTB Introduction Badge" width="120px" />
+   <a href="https://www.credly.com/badges/d626fcb3-dc61-4bd7-b586-3089823e110a" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="HTB Introduction Badge" width="120px" />
   </a>
   
-  <a href="https://academy.hackthebox.com/achievement/badge/2bce3d23-f797-11f0-9254-bea50ffe6cb4" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Linux Fundamentals badge" width="120px" />
+  <a href="https://academy.mobilehackinglab.com/admin/api/certificate_v2/661be95c60428f9d100f6ef2/user/68244a6f33c01dbbc50a30fd?lw_client=63942c32c9a203516ce07c09&access_token=" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtez9JMShRt1eek1-F5wT3Wh-50px6l37V8w&s" alt="Linux Fundamentals badge" width="120px" />
   </a>
 </div>
 
