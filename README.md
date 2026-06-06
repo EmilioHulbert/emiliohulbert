@@ -59,12 +59,6 @@
 ![Udemy](https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue)
 <br/>
 
-<!-- <h3 align="left">🏆 Github Trophies:</h3> -->
-	<!-- <p align="center"> -->
-	<!-- <img src="https://github-profile-trophy.vercel.app/?username=emiliohulbert&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" /> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=emiliohulbert&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" /> -->
-<!-- </p> -->
-
 
 <h3 align="left">🏆 Github Trophies:</h3>
 <p align="center">
