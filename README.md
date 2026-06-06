@@ -96,12 +96,20 @@
     <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
     <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
   </tr>
-  
+    
+   <tr>
+    <td align="center"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
+    <td align="center"><img src="(https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
+  </tr>
   <tr>
       
-    
-    
+   <td align="center"><img src="https://img.shields.io/badge/c++-%23000.svg?style=for-the-badge&logo=cplusplus&logoColor=cyan" /></td>
   </tr>
+
 </table>
 
 
