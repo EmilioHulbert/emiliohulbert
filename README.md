@@ -145,14 +145,6 @@
   <a href="https://academy.hackthebox.com/achievement/badge/2bce3d23-f797-11f0-9254-bea50ffe6cb4" target="_blank">
     <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Linux Fundamentals badge" width="120px" />
   </a>
-<a href="https://academy.hackthebox.com/achievement/badge/cadea6b4-f78a-11f0-9254-bea50ffe6cb4" target="_blank">
-    <img src="https://academy.hackthebox.com/storage/badges/crawl-walk-run.png" alt="Windows fundamentals" width="120px" />
-  </a>
-
-
-  
- 
-
 </div>
 
 
