@@ -86,21 +86,21 @@
     <td align="center"><img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/openvpn-%23000.svg?style=for-the-badge&logo=openvpn&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
   </tr>
   
   <tr>
-      <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+      
+    
+    
   </tr>
 </table>
 
