@@ -60,56 +60,7 @@
 
 <br/>
 
-<!-- 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/django-%23000.svg?style=for-the-badge&logo=django&logoColor=brown" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
-  </tr>
-</table>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/nginx-%23000.svg?style=for-the-badge&logo=nginx&logoColor=green" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=blue" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/openvpn-%23000.svg?style=for-the-badge&logo=openvpn&logoColor=red" /></td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Burp-%23000.svg?style=for-the-badge&logo=burpsuite&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
-  </tr>
-</table>
- -->
 
 <table align="center">
   <tr>
@@ -118,10 +69,11 @@
     <td align="center"><img src="https://img.shields.io/badge/Wordpress-%23000.svg?style=for-the-badge&logo=wordpress&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/drupal-%23000.svg?style=for-the-badge&logo=drupal&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/nginx-%23000.svg?style=for-the-badge&logo=nginx&logoColor=green" /></td>
     <td align="center"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></td>
       <td align="center"><img src="https://img.shields.io/badge/amazon-%23000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=orange" /></td>
@@ -129,7 +81,7 @@
     <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" /></td>
     <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=grey" /></td>
     <td align="center"><img src="https://img.shields.io/badge/docker-%23005.svg?style=for-the-badge&logo=docker&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/wireguard-%23000.svg?style=for-the-badge&logo=wireguard&logoColor=red" /></td>
@@ -137,7 +89,7 @@
     <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/debian-%23000.svg?style=for-the-badge&logo=debian&Color=maroon" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Hetzner-%23000.svg?style=for-the-badge&logo=hetzner&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/virtualbox-%23000.svg?style=for-the-badge&logo=virtualbox&logoColor=red" /></td>
     <td align="center"><img src="https://img.shields.io/badge/git-%23000.svg?style=for-the-badge&logo=git&logoColor=green" /></td>
@@ -146,8 +98,7 @@
   </tr>
   
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
+     <td align="center"><img src="https://img.shields.io/badge/vi-%23000.svg?style=for-the-badge&logo=vim&logoColor=green" /></td>
     <td align="center"><img src="https://img.shields.io/badge/UDEMY-%23000.svg?style=for-the-badge&logo=udemy&logoColor=blue" /></td>
     <td align="center"><img src="https://img.shields.io/badge/opensource-%23000.svg?style=for-the-badge&logo=linux&logoColor=green" /></td>
     <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
