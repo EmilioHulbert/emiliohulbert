@@ -110,9 +110,29 @@
 <p align="center">
   <img src="https://github-profile-trophy-beta-nine.vercel.app/api/?username=emiliohulbert&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-
 <br/>
+
+## Certification Badges 🪶
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+  <a href="https://badgr.com/public/assertions/T3fcheyZQH6xVQkQADwjSA" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/T3fcheyZQH6xVQkQADwjSA/image" alt="Postman API Fundamentals Student Expert" width="120px" />
+  </a>
+
+  <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Cybersecurity Badge" width="120px" />
+  </a>
+
+
+  <a href="https://www.credly.com/badges/c2edaee0-1a9a-484f-9b24-275dbf1e1446/public_url" target="_blank">
+    <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Cisco Cybersecurity Badge" width="120px" />
+  </a>
+  
+
+</div>
+
+
 
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
