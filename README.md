@@ -12,7 +12,21 @@
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div> 
+<img align="right" src="./logo.gif" width="200" height="200">
+<!-- <img align="right" src="https://avatars.githubusercontent.com/u/44590991?v=4" width=240>  -->
  
+| | |
+| - | - |
+|Full Name      |Emilio Hulber (Remac)|
+|Location           | CA, Ontario, Ottawa|
+|Profession     | Security Engineer & Full-Stack Developer |
+|Query From Me: |    Shell Scripting|
+|Contact Email         |    mailto:emiliohulbert2017@gmail.com|
+| | |
+
+##
+
+
 <p align="center">
 <samp>A Security Engineer,coder,ctf player and Full-stack Developer from Kenya</samp>
 <br/>
@@ -20,7 +34,8 @@
 <strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong>
 </p>
 <br/>
-<h3 align="left">Activities:</h3>
+
+<!-- <h3 align="left">Activities:</h3>
 
 - 🌱 I’m currently learning **C & C++ Programming**
 - 👯 I’m looking to learn ideas,and experiment new things
@@ -28,6 +43,9 @@
 - 📫 How to reach me **mailto:emiliohulbert2017@gmail.com**
 
 <br/>
+ -->
+
+
 
 # 💻 Tech Stack:
 <!-- 
@@ -192,23 +210,32 @@
 <!-- 
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center"> -->
-## <img src="./giphy.gif" width="35"><b> Github Streaks and  Stats </b>
-<br>
- 
-  <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark)](https://git.io/streak-stats" alt="GitHub Streaks" width="49%" />
-
-
-  <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-
-</p>
-
-  <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" width="49%" />
-
-
-<p align="left">
-
-  <a href="https://twitter.com/videquod" target="blank"><img src="https://img.shields.io/twitter/follow/videquod?logo=twitter&style=for-the-badge" alt="videquod" /></a>
-</p>
+<!-- <table> -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#24283b" height="150" width="300">
+      <!-- GitHub Stats (Left) -->
+      <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <!-- Remac's Stats Placeholder (Right) -->
+      <!-- If you have the image URL for the Remac card, place it here -->
+      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Most Used Languages (Left) -->
+      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" />
+    </td>
+    <td align="center">
+      <!-- GitHub Streaks (Right) -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark" alt="GitHub Streaks" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -218,13 +245,13 @@
   <a href="https://www.linkedin.com/in/emilio-hulbert-0ba27a307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://medium.com/@yasaryigitturan" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://leetcode.com/yyigitturan/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
@@ -232,7 +259,11 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
   </a>
 </div>
-
+<p align="left">
+  <a href="https://twitter.com/videquod" target="blank">
+    <img src="https://img.shields.io/twitter/follow/videquod?logo=twitter&style=for-the-badge" alt="videquod" />
+  </a>
+</p>
 
 <!---
   <img src="https://badges.pufler.dev/years/emiliohulbert?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
