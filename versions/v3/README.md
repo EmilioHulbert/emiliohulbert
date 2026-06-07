@@ -293,6 +293,3 @@ You can click the Preview link to take a look at your changes.
 <!-- ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png) -->
 ![header](./bottom-image.png)
 
-<p align="center">
-     <img width="100%" src="./wave.svg"/>
-</p>
