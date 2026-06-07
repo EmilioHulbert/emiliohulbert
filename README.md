@@ -9,6 +9,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+%2C+I+am+Emilio;I+am+a+Security+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+%E2%9D%A4+Coding+%F0%9F%92%BB;I+%E2%9D%A4+Learning+new+stuff+%F0%9F%8C%B1;I+%E2%9D%A4+Cyber+Security+%F0%9F%95%B5%EF%B8%8F;I+%E2%9D%A4+Automating+Stuff+%F0%9F%94%A7;I+%E2%9D%A4+Collaborating+on+projects+%F0%9F%91%AF">
 </p>
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emiliohulbert&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/emiliohulbert?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <img src="https://badges.strrl.dev/repos/emiliohulbert?color=blueviolet&style=flat" alt="Total Repos" />
+  <img src="https://badges.strrl.dev/commits/all/emiliohulbert?color=teal&style=flat" alt="Total Commits" />
+  <a href="https://github.com/sponsors/emiliohulbert">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
+</a>
+</p>
+
+
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div> 
