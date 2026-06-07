@@ -214,11 +214,11 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- <td align="center" bgcolor="#24283b" height="150" width="300"> -->
-    <td align="center" bgcolor="#24283b">
+    <td align="left" bgcolor="#24283b">
       <!-- GitHub Stats (Left) -->
       <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" />
       </td>
-    <td align="center">
+    <td align="right">
       <!-- Remac's Stats Placeholder (Right) -->
       <!-- If you have the image URL for the Remac card, place it here -->
       <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
