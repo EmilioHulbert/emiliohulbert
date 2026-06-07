@@ -209,14 +209,14 @@
  
 
 
-<!-- Row 1: Laptop + Remac Stats -->
-<table align="center" width="100%">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
+    <!-- Laptop Container with responsive image scaling -->
     <td align="center" bgcolor="#24283b" width="50%">
-      <img src="./stats.gif" width="100%" alt="GitHub Stats" />
+      <img src="./stats.gif" style="max-width: 150px; width: 100%; height: auto;" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
+      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" style="width: 100%; height: auto;" alt="Remac Stats" />
     </td>
   </tr>
 </table>
