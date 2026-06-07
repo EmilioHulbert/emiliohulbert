@@ -7,10 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+%2C+I+am+Emilio;I+am+a+Security+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+%E2%9D%A4+Coding+%F0%9F%92%BB;I+%E2%9D%A4+Learning+new+stuff+%F0%9F%8C%B1;I+%E2%9D%A4+Cyber+Security+%F0%9F%95%B5%EF%B8%8F;I+%E2%9D%A4+Automating+Stuff+%F0%9F%94%A7;I+%E2%9D%A4+Collaborating+on+projects+%F0%9F%91%AF">
 </p>
 <br/>
-<div align="center">
-<img src="./GradientLine.gif" align="center" style="width: 100%" />
-</div> 
- 
+<br/>
 <p align="center">
 <samp>A Security Engineer,coder,ctf player and Full-stack Developer from Kenya</samp>
 <br/>
@@ -122,11 +119,6 @@
 </p>
 <br/>
 
-<div align="center">
-<img src="./GradientLine.gif" align="center" style="width: 100%" />
-</div> 
-
-
 ## Certification Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -155,38 +147,7 @@
   </a>
 </div>
 
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
-</h4>  
-
-
-<div align="center">
-<img src="./GradientLine.gif" align="center" style="width: 100%" />
-</div> 
- 
- 
 
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
