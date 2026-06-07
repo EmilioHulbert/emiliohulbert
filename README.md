@@ -207,30 +207,24 @@
 </div> 
  
  
-
-<!-- Row 1: Laptop GIF + Remac Stats -->
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <!-- Row 1: Laptop and Remac Stats -->
   <tr>
-    <!-- Laptop Cell: Fixed height container, but image centered vertically -->
-    <td align="left" bgcolor="#24283b" width="50%" style="padding-left: 20px; height: 190px; vertical-align: middle;">
-      <img src="./stats.gif" style="max-width: 150px; width: 100%; height: auto;" alt="GitHub Stats" />
+    <td align="center" bgcolor="#24283b" width="50%" style="height: 195px; vertical-align: middle;">
+      <img src="./stats.gif" style="max-width: 140px; height: auto;" alt="GitHub Stats" />
     </td>
-    <!-- Remac Stats: Stays the same -->
-    <td align="center" width="50%" style="height: 190px; vertical-align: middle;">
-      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" style="width: 100%; max-height: 190px;" alt="Remac Stats" />
+    <td align="center" bgcolor="#24283b" width="50%" style="height: 195px; vertical-align: middle;">
+      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" style="max-width: 100%; height: auto;" alt="Remac Stats" />
     </td>
   </tr>
-</table>
-
-<!-- Row 2: Most Used Languages + Streaks -->
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+  <!-- Row 2: Languages and Streaks -->
   <tr>
-    <td align="center" width="50%" style="height: 190px; vertical-align: middle;">
-      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" style="width: 100%; max-height: 190px;" alt="GitHub Langs" />
+    <td align="center" bgcolor="#24283b" width="50%" style="height: 195px; vertical-align: middle;">
+      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" style="max-width: 100%; height: auto;" alt="GitHub Langs" />
     </td>
-    <td align="center" width="50%" style="height: 190px; vertical-align: middle;">
+    <td align="center" bgcolor="#24283b" width="50%" style="height: 195px; vertical-align: middle;">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark" style="width: 100%; max-height: 190px;" alt="GitHub Streaks" />
+        <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark" style="max-width: 100%; height: auto;" alt="GitHub Streaks" />
       </a>
     </td>
   </tr>
