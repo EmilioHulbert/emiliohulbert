@@ -17,8 +17,8 @@
 
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
-    <!-- Info Table -->
-    <td align="left" width="70%" valign="middle">
+    <!-- Info Table (Left) -->
+    <td align="left" width="70%" valign="top">
       <table>
         <tr><td><b>Full Name</b></td><td>Emilio Hulber (Remac)</td></tr>
         <tr><td><b>Location</b></td><td>CA, Ontario, Ottawa</td></tr>
@@ -27,13 +27,12 @@
         <tr><td><b>Contact Email</b></td><td><a href="mailto:emiliohulbert2017@gmail.com">Click to email</a></td></tr>
       </table>
     </td>
-    <!-- Image -->
-    <td align="center" width="30%" valign="middle">
-      <img src="./logo.gif" width="150" alt="Logo" />
+    <!-- Image Cell (Right) - Height matched to table -->
+    <td align="center" width="30%" style="height: 180px;">
+      <img src="./logo.gif" style="height: 100%; width: auto; object-fit: cover;" alt="Logo" />
     </td>
   </tr>
 </table>
-
 
 <p align="center">
 <samp>A Security Engineer,coder,ctf player and Full-stack Developer from Kenya</samp>
