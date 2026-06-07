@@ -209,28 +209,32 @@
  
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="5">
-  <!-- Row 1: Left: Laptop GIF, Right: Remac Stats -->
+<!-- Row 1: Laptop + Remac Stats -->
+<table align="center" width="100%">
   <tr>
-    <td align="center" bgcolor="#24283b" style="padding: 10px;">
-      <img src="./stats.gif" width="200" alt="GitHub Stats" />
+    <td align="center" bgcolor="#24283b" width="50%">
+      <img src="./stats.gif" width="100%" alt="GitHub Stats" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
     </td>
   </tr>
-  <!-- Row 2: Left: Languages, Right: Streaks -->
+</table>
+
+<!-- Row 2: Most Used Languages + Streaks -->
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark" alt="GitHub Streaks" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ### 🔗 Connect With Me
