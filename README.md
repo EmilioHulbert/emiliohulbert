@@ -12,19 +12,27 @@
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div> 
-<img align="right" src="./logo.gif" width="200" height="200">
-<!-- <img align="right" src="https://avatars.githubusercontent.com/u/44590991?v=4" width=240>  -->
- 
-| | |
-| - | - |
-|Full Name      |Emilio Hulber (Remac)|
-|Location           | CA, Ontario, Ottawa|
-|Profession     | Security Engineer & Full-Stack Developer |
-|Query From Me: |    Shell Scripting|
-|Contact Email         |    mailto:emiliohulbert2017@gmail.com|
-| | |
 
-##
+
+
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+  <tr>
+    <!-- Info Table -->
+    <td align="left" width="70%" valign="middle">
+      <table>
+        <tr><td><b>Full Name</b></td><td>Emilio Hulber (Remac)</td></tr>
+        <tr><td><b>Location</b></td><td>CA, Ontario, Ottawa</td></tr>
+        <tr><td><b>Profession</b></td><td>Security Engineer & Full-Stack Developer</td></tr>
+        <tr><td><b>Query From Me</b></td><td>Shell Scripting</td></tr>
+        <tr><td><b>Contact Email</b></td><td><a href="mailto:emiliohulbert2017@gmail.com">Click to email</a></td></tr>
+      </table>
+    </td>
+    <!-- Image -->
+    <td align="center" width="30%" valign="middle">
+      <img src="./logo.gif" width="150" alt="Logo" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
