@@ -216,7 +216,8 @@
     <!-- <td align="center" bgcolor="#24283b" height="150" width="300"> -->
     <td align="center" bgcolor="#24283b">
       <!-- GitHub Stats (Left) -->
-      <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" />
+      <!-- <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" /> -->
+      <img src="./stats.gif" alt="GitHub Stats" />
     </td>
     <td align="center">
       <!-- Remac's Stats Placeholder (Right) -->
