@@ -213,7 +213,8 @@
 <!-- <table> -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" bgcolor="#24283b" height="150" width="300">
+    <!-- <td align="center" bgcolor="#24283b" height="150" width="300"> -->
+    <td align="center" bgcolor="#24283b">
       <!-- GitHub Stats (Left) -->
       <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" />
     </td>
