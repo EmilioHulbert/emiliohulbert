@@ -207,9 +207,9 @@
 </div> 
  
  
-<!-- 
+
 <h3 align="left">📊 Streaks and Stats:</h3>
-<p align="center"> -->
+<p align="center">
 <!-- <table> -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
