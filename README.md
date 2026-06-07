@@ -213,8 +213,8 @@
 <!-- Row 2: Most Used Languages + Streaks -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <!-- <img src="./stats.gif" alt="GitHub Stats" /> -->
+    <!-- <td align="center" width="50%"> -->
+      <td align="left" bgcolor="#24283b" width="50%" style="padding-left: 20px;">
       <img src="./stats.gif" style="max-width: 150px; width: 100%; height: auto;" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
