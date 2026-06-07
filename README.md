@@ -209,14 +209,18 @@
  
 
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+
+<!-- Row 2: Most Used Languages + Streaks -->
+<table align="center" width="100%">
   <tr>
-    <!-- Laptop Container with responsive image scaling -->
-    <td align="center" bgcolor="#24283b" width="50%">
+    <td align="center" width="50%">
+      <!-- <img src="./stats.gif" alt="GitHub Stats" /> -->
       <img src="./stats.gif" style="max-width: 150px; width: 100%; height: auto;" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" style="width: 100%; height: auto;" alt="Remac Stats" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
+      </a>
     </td>
   </tr>
 </table>
