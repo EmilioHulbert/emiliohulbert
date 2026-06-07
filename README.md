@@ -208,36 +208,29 @@
  
  
 
-<h3 align="left">📊 Streaks and Stats:</h3>
-<p align="center">
-<!-- <table> -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+
+<table align="center" border="0" cellspacing="0" cellpadding="5">
+  <!-- Row 1: Left: Laptop GIF, Right: Remac Stats -->
   <tr>
-    <!-- <td align="center" bgcolor="#24283b" height="150" width="300"> -->
-    <td align="left" bgcolor="#24283b">
-      <!-- GitHub Stats (Left) -->
-      <img src="./stats.gif" width="200" height="auto" alt="GitHub Stats" />
-      </td>
-    <td align="right">
-      <!-- Remac's Stats Placeholder (Right) -->
-      <!-- If you have the image URL for the Remac card, place it here -->
+    <td align="center" bgcolor="#24283b" style="padding: 10px;">
+      <img src="./stats.gif" width="200" alt="GitHub Stats" />
+    </td>
+    <td align="center">
       <img src="https://github-readme-stats-roan-ten-73.vercel.app/api?username=emiliohulbert&show_icons=true&theme=tokyonight" alt="Remac Stats" />
     </td>
   </tr>
+  <!-- Row 2: Left: Languages, Right: Streaks -->
   <tr>
     <td align="center">
-      <!-- Most Used Languages (Left) -->
       <img src="https://github-readme-stats-roan-ten-73.vercel.app/api/top-langs/?username=emiliohulbert&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" alt="GitHub Langs" />
     </td>
     <td align="center">
-      <!-- GitHub Streaks (Right) -->
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-statss-umber.vercel.app?user=emiliohulbert&theme=dark" alt="GitHub Streaks" />
       </a>
     </td>
   </tr>
 </table>
-
 
 
 ### 🔗 Connect With Me
