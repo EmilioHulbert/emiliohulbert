@@ -39,7 +39,8 @@
       <tr><td><b>Location</b></td><td>CA, Ontario, Ottawa</td></tr>
       <tr><td><b>Profession</b></td><td>Security Engineer & Full-Stack Developer</td></tr>
       <tr><td><b>Query From Me</b></td><td>Shell Scripting</td></tr>
-      <tr><td><b>Resume Page</b></td><td><a href="https://bold.pro/my/emilio-hulbert-251210194711" target="_blank">Proceed To Resume</a></td></tr>
+      <!-- <tr><td><b>Resume Page</b></td><td><a href="https://bold.pro/my/emilio-hulbert-251210194711" target="_blank">Proceed To Resume</a></td></tr> -->
+    <tr><td><b>Resume Page</b></td><td><a href="[https://bold.pro/my/emilio-hulbert-251210194711](https://bold.pro/my/emilio-hulbert-251210194711)" target="_blank">Proceed To Resume</a></td></tr>
     </table>
   </div>
 </div>
