@@ -39,7 +39,7 @@
       <tr><td><b>Location</b></td><td>CA, Ontario, Ottawa</td></tr>
       <tr><td><b>Profession</b></td><td>Security Engineer & Full-Stack Developer</td></tr>
       <tr><td><b>Query From Me</b></td><td>Shell Scripting</td></tr>
-      <tr><td><b>Contact Email</b></td><td><a href="mailto:emiliohulbert2017@gmail.com">Click to email</a></td></tr>
+      <tr><td><b>Resume Page</b></td><td><a href="https://bold.pro/my/emilio-hulbert-251210194711">Proceed To Resume</a></td></tr>
     </table>
   </div>
 </div>
@@ -54,7 +54,7 @@
 
 ### Let's connect 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lindex_dg?igsh=MWx4Z2d1aWQ0eGZwcw==) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:lindex171@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahima-dieng?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/instagram) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:emiliohulbert2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-hulbert-0ba27a307) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong>
 <br/>
 <br/>
 <!-- <strong><a href="https://emiliohulbert.github.io/">My Portfolio »</a></strong> -->
