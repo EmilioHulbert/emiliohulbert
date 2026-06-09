@@ -415,6 +415,7 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div> 
  
+ ## <img src="./giphy.gif" width="35"><b> Github Streaks and  Stats </b>
  
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <!-- Row 1: Laptop and Remac Stats -->
