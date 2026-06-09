@@ -39,7 +39,7 @@
       <tr><td><b>Location</b></td><td>CA, Ontario, Ottawa</td></tr>
       <tr><td><b>Profession</b></td><td>Security Engineer & Full-Stack Developer</td></tr>
       <tr><td><b>Query From Me</b></td><td>Shell Scripting</td></tr>
-      <tr><td><b>Resume Page</b></td><td><a href="https://bold.pro/my/emilio-hulbert-251210194711" target="_blank">Proceed To Resume</a></td></tr>
+      <tr><td><b>Bold Profile</b></td><td><a href="https://bold.pro/my/emilio-hulbert-251210194711" target="_blank"> <i><b><u> View My Bold Profile</u></b></i></a></td></tr>
     </table>
   </div>
 </div>
@@ -472,7 +472,7 @@
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">Support:</h3>
+<h3 align="left"><u> Support:</u> </h3>
 <p><a href="https://www.buymeacoffee.com/lilplucky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lilplucky" /></a><a href="https://ko-fi.com/lilplucky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lilplucky" /></a></p><br><br>
 
 
